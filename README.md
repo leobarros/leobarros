@@ -1,5 +1,11 @@
-### Hi there 👋
+### Olá para todos 👋
 
+ - Estudando
+   - GCP (Google Cloud Platform
+   - Docker
+   - Kubernetes
+   - Ansible
+   - Python
 <!--
 **leobarros/leobarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
