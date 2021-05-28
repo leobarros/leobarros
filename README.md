@@ -1,7 +1,7 @@
 ### Olá para todos 👋
 
  - Estudando
-   - GCP (Google Cloud Platform
+   - GCP (Google Cloud Platform)
    - Docker
    - Kubernetes
    - Ansible
