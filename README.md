@@ -14,15 +14,18 @@ Apliquei ainda mais esse conhecimento quando entrei no time de infraestrutura da
 
 Já caminhando para essa jornada de **DevOps** cheguei na **Globo.com** onde coloquei o meu conhecimento e adquiri vários. E ainda continuo adquirindo. 😃
 
+Em dezembro de 2021 chego na Picpay e estou sendo bem recebido, acolhido e conhecendo a cultura da empresa. Com muita vontade de aprender e ajudar. 
+
 Gosto: :dog2: :cat2: :coffee:
 
 ---
 Hoje estou focando nas seguintes tecnolgias e estudando sobre:
+   - AWS (Amazon Web Service)
+   - terraform
    - GCP (Google Cloud Platform)
    - Docker
    - Kubernetes
    - Ansible
-   - terraform
    - Python
 <!--
 **leobarros/leobarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
