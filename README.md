@@ -1,20 +1,20 @@
 ### Olá para todos 👋
 
-Gosto muito da área de infraestrutura e me lembro quando comecei a trabalhar nessa área. Não falo de **manutenção de computadores**.
+Gosto muito da área de infraestrutura e me lembro quando comecei a trabalhar nessa área.
 
-Falo de quando montei o meu primeiro **webserver** em 2011. Ver um servidor em um Datacenter e ser acessada por vários usuários é muito gratificante.
+Falo de quando montei o meu primeiro **webserver** em 2011. Ver um servidor em um Datacenter e ser acessado por vários usuários é muito gratificante.
 
 Hoje vemos muitas ferramentas para auxiliar uma pessoa de infraestrutura, mas comecei usando python e shellscript para me auxiliar nessa jornada.
 
 Muito tempo depois fui apresentado ao **puppet** em uma empresa de hospedagem de sites onde aprendi muito sobre servidores.
 
-Foi lá que me despertou a vontade de trabalhar com infraestrutura. Escrever alguns códigos e configurar vários servidores. Isso me fez brilhar os olhos. 😄
+Foi lá que me despertou a vontade de trabalhar com infraestrutura. Escrever alguns códigos e configurar vários servidores. Isso me faz brilhar os olhos. 😄
 
 Apliquei ainda mais esse conhecimento quando entrei no time de infraestrutura da **Globosat**. Cuidando de aplicações como **Telecine, Multi Show, Globo News entre outras**
 
 Já caminhando para essa jornada de **DevOps** cheguei na **Globo.com** onde coloquei o meu conhecimento e adquiri vários. E ainda continuo adquirindo. 😃
 
-Em dezembro de 2021 chego na Picpay e estou sendo bem recebido, acolhido e conhecendo a cultura da empresa. Com muita vontade de aprender e ajudar. 
+Em dezembro de 2021 chego na Picpay com muita vontade de aprender e ajudar.
 
 Gosto: :dog2: :cat2: :coffee:
 
