@@ -10,23 +10,23 @@ Muito tempo depois fui apresentado ao **puppet** em uma empresa de hospedagem de
 
 Foi lá que me despertou a vontade de trabalhar com infraestrutura. Escrever alguns códigos e configurar vários servidores. Isso me faz brilhar os olhos. 😄
 
-Apliquei ainda mais esse conhecimento quando entrei no time de infraestrutura da **Globosat**. Cuidando de aplicações como **Telecine, Multi Show, Globo News entre outras**
+Em 2018 comecei a migrar para a cultura DevOps ajudando o time de desenvolvimento a lançar suas aplicações para a internet.
 
-Já caminhando para essa jornada de **DevOps** cheguei na **Globo.com** onde coloquei o meu conhecimento e adquiri vários. E ainda continuo adquirindo. 😃
+Utilizei muitas ferramentas legais para isso e também a comunicação. Esse skill é essencial no meu entendimento.
 
-Em dezembro de 2021 chego na Picpay com muita vontade de aprender e ajudar.
+Já em 2021 comecei a minha jornada como SRE para aplicações voltados para a área financeira.
 
 Gosto: :dog2: :cat2: :coffee:
 
 ---
 Hoje estou focando nas seguintes tecnolgias e estudando sobre:
    - AWS (Amazon Web Service)
+   - Python
    - terraform
-   - GCP (Google Cloud Platform)
    - Docker
    - Kubernetes
    - Ansible
-   - Python
+
 <!--
 **leobarros/leobarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
