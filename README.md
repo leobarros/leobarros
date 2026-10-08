@@ -78,7 +78,7 @@ Gosto de: 🐕 🐈 ☕
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=leobarros&hide_border=true&locale=pt_BR&background=0D1117&ring=22D3EE&fire=2563EB&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" alt="Sequência de contribuições">
+<img src="https://streak-stats.demolab.com?user=leobarros&hide_border=true&locale=pt_BR&background=0D1117&ring=22D3EE&fire=2563EB&currStreakNum=F8FAFC&currStreakLabel=22D3EE&sideNums=F8FAFC&sideLabels=C9D1D9&dates=8B949E" alt="Sequência de contribuições">
 
 </div>
 
