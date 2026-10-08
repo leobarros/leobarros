@@ -70,8 +70,11 @@ Gosto de: 🐕 🐈 ☕
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=leobarros&show_icons=true&hide_border=true&include_all_commits=true&locale=pt-br&title_color=22D3EE&icon_color=2563EB&text_color=C9D1D9&bg_color=0D1117&cache_seconds=86400" alt="Estatísticas do GitHub de Leonardo Barros">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobarros&layout=compact&hide_border=true&langs_count=8&locale=pt-br&title_color=22D3EE&text_color=C9D1D9&bg_color=0D1117" alt="Linguagens mais usadas">
+<!-- Cards gerados por assets/make_stats.py. Ficam em PNG servido pela raw
+     (dominio do GitHub) de proposito: assim o camo nao intercepta a imagem
+     e nao existe cache de erro para envenenar o card. -->
+<img src="https://raw.githubusercontent.com/leobarros/leobarros/main/assets/stats.png" alt="Estatísticas do GitHub de Leonardo Barros: 30 estrelas, 534 commits públicos, 14 pull requests, 22 seguidores e 60 repositórios públicos">
+<img src="https://raw.githubusercontent.com/leobarros/leobarros/main/assets/langs.png" alt="Linguagens mais usadas, por repositório: Python 13, Ruby 7, HTML 4, Dockerfile 3, JavaScript 3, Astro 2">
 
 <br>
 
